@@ -11,3 +11,6 @@ git branch new-branch-name
 git checkout new-branch-name
 git pull
 git push
+
+
+on master branch : git merge new-branch-name
