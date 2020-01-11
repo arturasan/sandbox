@@ -1,2 +1,3 @@
 # sandbox
-Used for testing
+Used for testing and demo projects
+git
